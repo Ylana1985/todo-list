@@ -39,5 +39,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "��#\u0000 \u0000t\u0000o\u0000d\u0000o\u0000-\u00003\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
